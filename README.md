@@ -2,6 +2,8 @@
 
 By Oliver Posewitz
 
+## [Interactive Demo Link](https://colab.research.google.com/drive/17_J-3lt0hX0XqQu7J-2mKS0VwIqyeNIS?usp=sharing)
+
 
 ### The Goal
 
